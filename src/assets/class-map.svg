@@ -1,0 +1,55 @@
+<svg width="1158" height="800" viewBox="0 0 1158 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Frame 1">
+<rect id="Rectangle 1" x="82" y="137" width="994" height="525" rx="16" fill="white"/>
+<rect id="Rectangle 15" x="82" y="137" width="994" height="525" rx="16" fill="white"/>
+<rect id="Rectangle 4" x="83.5" y="138.5" width="139" height="157" fill="white" stroke="#CCCCCC" stroke-width="3"/>
+<rect id="Rectangle 3" x="225.5" y="138.5" width="139" height="157" fill="white" stroke="#CCCCCC" stroke-width="3"/>
+<rect id="Rectangle 7" x="367.5" y="138.5" width="139" height="157" fill="white" stroke="#CCCCCC" stroke-width="3"/>
+<rect id="Rectangle 5" x="509.5" y="138.5" width="139" height="157" fill="white" stroke="#CCCCCC" stroke-width="3"/>
+<rect id="Rectangle 6" x="651.5" y="138.5" width="139" height="157" fill="white" stroke="#CCCCCC" stroke-width="3"/>
+<rect id="Rectangle 8" x="793.5" y="138.5" width="139" height="157" fill="white" stroke="#CCCCCC" stroke-width="3"/>
+<rect id="Rectangle 9" x="935.5" y="138.5" width="139" height="157" fill="white" stroke="#CCCCCC" stroke-width="3"/>
+<rect id="Rectangle 10" x="824.5" y="345.5" width="250" height="108" fill="white" stroke="#CCCCCC" stroke-width="3"/>
+<rect id="Rectangle 18" x="83.5" y="450.5" width="222" height="117" fill="white" stroke="#CCCCCC" stroke-width="3"/>
+<rect id="Rectangle 28" x="348.5" y="439.5" width="342" height="128" fill="white" stroke="#CCCCCC" stroke-width="3"/>
+<rect id="Rectangle 29" x="733.5" y="456.5" width="342" height="111" fill="white" stroke="#CCCCCC" stroke-width="3"/>
+
+<g id="Room1" class="clickable hover-fill">
+    <rect x="566.5" y="362.5" width="63" height="74" fill="white" stroke="black" stroke-width="3"/>
+    <text x="598" y="399.5" text-anchor="middle" dominant-baseline="middle" font-size="14" font-family="Arial" fill="black">회의실 1</text>
+  </g>
+
+  <g id="Room2" class="clickable hover-fill">
+    <rect x="500.5" y="362.5" width="63" height="74" fill="white" stroke="black" stroke-width="3"/>
+    <text x="531" y="399.5" text-anchor="middle" dominant-baseline="middle" font-size="14" font-family="Arial" fill="black">회의실 2</text>
+  </g>
+
+  <g id="Room3" class="clickable hover-fill">
+    <rect x="414.5" y="362.5" width="63" height="74" fill="white" stroke="black" stroke-width="3"/>
+    <text x="446" y="399.5" text-anchor="middle" dominant-baseline="middle" font-size="14" font-family="Arial" fill="black">회의실 3</text>
+  </g>
+
+  <g id="Room4" class="clickable hover-fill">
+    <rect x="348.5" y="362.5" width="63" height="74" fill="white" stroke="black" stroke-width="3"/>
+    <text x="380" y="399.5" text-anchor="middle" dominant-baseline="middle" font-size="14" font-family="Arial" fill="black">회의실 4</text>
+  </g>
+
+  <g id="Room5" class="clickable hover-fill">
+    <rect x="163.5" y="378.5" width="59" height="69" fill="white" stroke="black" stroke-width="3"/>
+    <text x="193" y="413" text-anchor="middle" dominant-baseline="middle" font-size="14" font-family="Arial" fill="black">회의실 5</text>
+  </g>
+
+  <g id="Room6" class="clickable hover-fill">
+    <rect x="83.5" y="378.5" width="77" height="69" fill="white" stroke="black" stroke-width="3"/>
+    <text x="122" y="413" text-anchor="middle" dominant-baseline="middle" font-size="14" font-family="Arial" fill="black">회의실 6</text>
+  </g>
+
+  <g id="Room7" class="clickable hover-fill">
+    <rect x="83.5" y="298.5" width="57" height="77" fill="white" stroke="black" stroke-width="3"/>
+    <text x="111" y="337" text-anchor="middle" dominant-baseline="middle" font-size="14" font-family="Arial" fill="black">회의실 7</text>
+  </g>
+
+<path id="Arrow 1" d="M711.293 523.707C711.683 524.098 712.317 524.098 712.707 523.707L719.071 517.343C719.462 516.953 719.462 516.319 719.071 515.929C718.681 515.538 718.047 515.538 717.657 515.929L712 521.586L706.343 515.929C705.953 515.538 705.319 515.538 704.929 515.929C704.538 516.319 704.538 516.953 704.929 517.343L711.293 523.707ZM712 485L711 485L711 523L712 523L713 523L713 485L712 485Z" fill="#CCCCCC"/>
+<path id="Arrow 2" d="M326.293 523.707C326.683 524.098 327.317 524.098 327.707 523.707L334.071 517.343C334.462 516.953 334.462 516.319 334.071 515.929C333.681 515.538 333.047 515.538 332.657 515.929L327 521.586L321.343 515.929C320.953 515.538 320.319 515.538 319.929 515.929C319.538 516.319 319.538 516.953 319.929 517.343L326.293 523.707ZM327 485L326 485L326 523L327 523L328 523L328 485L327 485Z" fill="#CCCCCC"/>
+</g>
+</svg>
