@@ -1,3 +1,59 @@
+:root {
+  /* ── 메인 블루 스케일 ── */
+  --adaptive-blue-900: #001a3d;
+  --adaptive-blue-800: #001f47;
+  --adaptive-blue-700: #00254f;
+  --adaptive-blue-600: #002c5f; /* 기준 색상 */
+  --adaptive-blue-500: #1b4170;
+  --adaptive-blue-400: #345681;
+  --adaptive-blue-300: #4d6a92;
+  --adaptive-blue-200: #6680a3;
+  --adaptive-blue-100: #7f95b4;
+  --adaptive-blue-50: #99aac5;
+
+  --adaptive-blue-900: #001c4a;
+  --adaptive-blue-800: #002253;
+  --adaptive-blue-700: #00285a;
+  --adaptive-blue-600: #002c5f; /* 기준 색상 (유지) */
+  --adaptive-blue-500: #1e4c92;
+  --adaptive-blue-400: #3f6dc2;
+  --adaptive-blue-300: #5a8ae1;
+  --adaptive-blue-200: #85aef0;
+  --adaptive-blue-100: #abc9f8;
+  --adaptive-blue-50: #d6e7fc;
+
+  /* ── 그레이 스케일 ── */
+  --gray-100: #f7f8fa;
+  --gray-200: #e5e7eb;
+  --gray-300: #d1d5db;
+  --gray-400: #9ca3af;
+  --gray-500: #6b7280;
+  --gray-600: #4b5563;
+  --gray-700: #374151;
+  --gray-800: #1f2937;
+  --gray-900: #111827;
+
+  /* ── 텍스트 컬러 ── */
+  --text-primary: var(--gray-900); /* #111827 */
+  --text-secondary: var(--gray-700); /* #374151 */
+  --text-tertiary: var(--gray-500); /* #6B7280 */
+
+  /* ── 액센트 블루 ── */
+  --accent-blue-700: #1d4ed8; /* 강조 버튼 등 */
+  --accent-blue-600: #3b82f6; /* hover 등 */
+  --accent-blue-400: #050607; /* 비활성 버튼 */
+  --accent-blue-100: #dbeafe; /* 강조 배경 */
+
+  --schedule-main: #a5b4fc;
+  --schedule-meeting: #93c5fd;
+  --schedule-deadline: #fca5a5;
+  --schedule-private: #c4b5fd;
+  --schedule-external: #bfdbfe;
+  --schedule-team: #e0e7ff;
+  --schedule-reminder: #fde68a;
+  --schedule-complete: #e5e7eb;
+}
+
 #root {
   max-width: 1280px;
   margin: 0 auto;
